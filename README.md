@@ -3,6 +3,11 @@
 > 中小企业避坑清单 + 痛点实录
 > 愿每一家认真做事的小企业，终能光明正大地面对这个世界。
 
+<p align="center">
+  <img src="assets/wechat-personal.jpg" alt="Add WUJI on WeChat" width="200">
+</p>
+<p align="center">扫码添加作者微信 · Scan to add the author on WeChat</p>
+
 ## 这里有什么
 
 | 文档 | 一句话 |
@@ -34,7 +39,3 @@
 ---
 
 **WUJI Labs · 2026**
-
-## 联系 · Contact
-扫码添加无极微信，交流合作 · Scan to add WUJI on WeChat
-<img src="assets/wechat-qr.png" width="200" alt="WUJI WeChat QR">
